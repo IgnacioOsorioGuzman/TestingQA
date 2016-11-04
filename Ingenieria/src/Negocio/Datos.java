@@ -4,7 +4,7 @@
  */
 package Negocio;
 
-
+primer cambio
 import Datos.*;
 import Datos.Usuario;
 import java.sql.Connection;
